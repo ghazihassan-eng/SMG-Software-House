@@ -1,0 +1,58 @@
+#title{
+  background: black;
+}
+.container-fluid{
+  padding: 3% 5%;
+}
+.titleimg{
+  height: 500px;
+  width: 98%;
+}
+h1,h2,h3,h4,h5{
+  font-family: 'Rowdies', cursive;
+}
+h2,h4{
+  color: white;
+}
+p{
+  font-family: 'Recursive', sans-serif;
+}
+.center{
+  text-align: center;
+  padding: 30% 5%;
+}
+#ready{
+  background: black;
+  color: white;
+  padding: 7%;
+}
+.service-card{
+  padding:2%;
+}
+#work{
+  background: black;
+  color:white;
+
+}
+
+#pricing{
+	text-align: center;
+  background: black;
+
+}
+
+#contact{
+  background: #ebecf1;
+}
+#footer{
+  background: black;
+  color:white;
+}
+@media (max-width:989px)
+{
+p{
+  font-size: 35px;
+
+}
+
+}
